@@ -1,4 +1,6 @@
 .book {
 	border-radius: .25rem;
 	box-shadow: 2px 2px 5px grey;
+	height: 191px !important;
+	width: 128px !important;
 }
