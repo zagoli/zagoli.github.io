@@ -4,10 +4,31 @@ img.center {
     margin-right: auto;
 }
 
-figcaption {
-    text-align: center;
+.rounded {
+    border-radius: 50%;
 }
 
-footer {
-    margin-top: 2rem;
+.text-content {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+body {
+    height: 100vh;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+i {
+    margin-right: 10px;
 }
